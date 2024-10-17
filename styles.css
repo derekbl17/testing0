@@ -1,22 +1,24 @@
 * {
-    margin: 0;
-padding: 0;
+  margin: 0;
+  padding: 0;
 }
 table {
-    border:4px solid black;
-
+  border: 4px solid rgb(26, 25, 25);
 }
 td {
-    padding: 0px;
-    border:inset rgb(255, 255, 255);
+  padding: 0px;
+  border: inset rgb(173, 172, 172);
 }
-body {background-image: url("./car.jfif") ;
-background-repeat:no-repeat;
-background-size: cover;
+body {
+  background-image: url("./car.jfif");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
-table {background-image: url("./car.jfif") ;
-    background-repeat:no-repeat;
-    background-size: cover;
-    }
-    form {background-image: url("./car.jfif") ;
-        }
+table {
+  background-image: url("./car.jfif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+form {
+  background-image: url("./car.jfif");
+}
